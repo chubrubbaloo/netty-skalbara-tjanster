@@ -28,7 +28,7 @@ public class Node {
         var args = new String[] {
                 "java",
                 "-jar",
-                "spring.jar",
+                "full-demo.jar",
                 "--server.port=" + port
         };
 
